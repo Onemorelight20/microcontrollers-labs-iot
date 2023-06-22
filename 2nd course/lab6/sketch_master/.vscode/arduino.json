@@ -1,0 +1,8 @@
+{
+    "board": "arduino:avr:mega",
+    "sketch": "sketch_master.ino",
+    "port": "COM4",
+    "configuration": "cpu=atmega2560",
+    "programmer": "avrisp",
+    "output": "./build"
+}

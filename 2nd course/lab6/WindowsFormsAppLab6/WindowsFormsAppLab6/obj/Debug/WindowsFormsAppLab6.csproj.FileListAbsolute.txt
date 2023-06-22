@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\microcontrollers\lab6\WindowsFormsAppLab6\WindowsFormsAppLab6\bin\Debug\WindowsFormsAppLab2.exe.config
+C:\Users\Admin\Desktop\microcontrollers\lab6\WindowsFormsAppLab6\WindowsFormsAppLab6\bin\Debug\WindowsFormsAppLab2.exe
+C:\Users\Admin\Desktop\microcontrollers\lab6\WindowsFormsAppLab6\WindowsFormsAppLab6\bin\Debug\WindowsFormsAppLab2.pdb
+C:\Users\Admin\Desktop\microcontrollers\lab6\WindowsFormsAppLab6\WindowsFormsAppLab6\obj\Debug\WindowsFormsAppLab6.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\microcontrollers\lab6\WindowsFormsAppLab6\WindowsFormsAppLab6\obj\Debug\WindowsFormsAppLab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\microcontrollers\lab6\WindowsFormsAppLab6\WindowsFormsAppLab6\obj\Debug\WindowsFormsAppLab2.Properties.Resources.resources
+C:\Users\Admin\Desktop\microcontrollers\lab6\WindowsFormsAppLab6\WindowsFormsAppLab6\obj\Debug\WindowsFormsAppLab6.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\microcontrollers\lab6\WindowsFormsAppLab6\WindowsFormsAppLab6\obj\Debug\WindowsFormsAppLab6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\microcontrollers\lab6\WindowsFormsAppLab6\WindowsFormsAppLab6\obj\Debug\WindowsFormsAppLab2.exe
+C:\Users\Admin\Desktop\microcontrollers\lab6\WindowsFormsAppLab6\WindowsFormsAppLab6\obj\Debug\WindowsFormsAppLab2.pdb
+C:\Users\Admin\Desktop\microcontrollers\lab6\WindowsFormsAppLab6\WindowsFormsAppLab6\obj\Debug\WindowsFormsAppLab6.Form1.resources

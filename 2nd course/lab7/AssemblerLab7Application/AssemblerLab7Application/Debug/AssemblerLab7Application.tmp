@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\Debug\AssemblerLab7Application.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerLab7Application.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerLab7Application.map</FILE>
+  <FILE>AssemblerLab7Application.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\main.asm</FILE><LINE>96</LINE></setup>
+  <TIMER3_COMPA><FILE>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\main.asm</FILE><LINE>186</LINE></TIMER3_COMPA>
+  <start1_subroutine><FILE>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\main.asm</FILE><LINE>82</LINE></start1_subroutine>
+  <main><FILE>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\main.asm</FILE><LINE>146</LINE></main>
+  <trigger_button1><FILE>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\main.asm</FILE><LINE>160</LINE></trigger_button1>
+  <delay200ms><FILE>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\main.asm</FILE><LINE>175</LINE></delay200ms>
+  <trigger_button2><FILE>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\main.asm</FILE><LINE>172</LINE></trigger_button2>
+  <delay><FILE>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\main.asm</FILE><LINE>178</LINE></delay>
+  <algorithm1><FILE>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\main.asm</FILE><LINE>194</LINE></algorithm1>
+  <algorithm2><FILE>C:\Users\Admin\Desktop\microcontrollers\lab7\AssemblerLab7Application\AssemblerLab7Application\main.asm</FILE><LINE>211</LINE></algorithm2>
+ </LABELS>
+</ASSEMBLER_INFO>

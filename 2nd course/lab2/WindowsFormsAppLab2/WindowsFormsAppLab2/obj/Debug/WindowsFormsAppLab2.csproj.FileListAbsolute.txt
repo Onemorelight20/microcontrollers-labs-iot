@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\microcontrollers\lab2\WindowsFormsAppLab2\WindowsFormsAppLab2\bin\Debug\WindowsFormsAppLab2.exe.config
+C:\Users\Admin\Desktop\microcontrollers\lab2\WindowsFormsAppLab2\WindowsFormsAppLab2\bin\Debug\WindowsFormsAppLab2.exe
+C:\Users\Admin\Desktop\microcontrollers\lab2\WindowsFormsAppLab2\WindowsFormsAppLab2\bin\Debug\WindowsFormsAppLab2.pdb
+C:\Users\Admin\Desktop\microcontrollers\lab2\WindowsFormsAppLab2\WindowsFormsAppLab2\obj\Debug\WindowsFormsAppLab2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\microcontrollers\lab2\WindowsFormsAppLab2\WindowsFormsAppLab2\obj\Debug\WindowsFormsAppLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\microcontrollers\lab2\WindowsFormsAppLab2\WindowsFormsAppLab2\obj\Debug\WindowsFormsAppLab2.Form1.resources
+C:\Users\Admin\Desktop\microcontrollers\lab2\WindowsFormsAppLab2\WindowsFormsAppLab2\obj\Debug\WindowsFormsAppLab2.Properties.Resources.resources
+C:\Users\Admin\Desktop\microcontrollers\lab2\WindowsFormsAppLab2\WindowsFormsAppLab2\obj\Debug\WindowsFormsAppLab2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\microcontrollers\lab2\WindowsFormsAppLab2\WindowsFormsAppLab2\obj\Debug\WindowsFormsAppLab2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\microcontrollers\lab2\WindowsFormsAppLab2\WindowsFormsAppLab2\obj\Debug\WindowsFormsAppLab2.exe
+C:\Users\Admin\Desktop\microcontrollers\lab2\WindowsFormsAppLab2\WindowsFormsAppLab2\obj\Debug\WindowsFormsAppLab2.pdb
